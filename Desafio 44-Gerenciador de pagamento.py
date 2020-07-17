@@ -20,4 +20,4 @@ if op==1:
     else:
         print('FIM DA COMPRA')
 else:
-    print('Informe o valor correto emprestavél')
+    print('Informe o valor correto')
